@@ -5,3 +5,6 @@ The purpose of this repository is to provide the students with a guide to the ab
 Another screenshot to be added
 
 <img width="995" height="439" alt="image" src="https://github.com/user-attachments/assets/bd30f93d-3284-44b8-bc72-364ff9367fbb" />
+
+Second screenshot
+<img width="995" height="439" alt="image" src="screen1.png"/>
